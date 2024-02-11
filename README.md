@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me balvantdesai@gmail.com
+- 📫 How to reach me balvantdesai22@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
